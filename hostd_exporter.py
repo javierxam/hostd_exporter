@@ -1,6 +1,4 @@
-import json
 import requests
-from io import BytesIO
 from prometheus_client import Gauge
 import http.server
 import prometheus_client
